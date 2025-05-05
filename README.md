@@ -37,7 +37,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/restaurant-website.git
+git clone https://github.com/yogeshanand03/small-restaurant-website
 Open index.html in your browser.
 
 ✨ Live Demo
